@@ -1,0 +1,501 @@
+history
+    2  git checkout -b main
+    3  git checkout -b qa
+    4  git checkout -b dev
+    5  git branch
+    6  git checkout main
+    7  ls
+    8  touch main.txt
+    9  git add .
+   10  git commit -m "a1"
+   11  git push origin main
+   12  ls
+   13  git log --oneline
+   14  git commit -m "a2"
+   15  git add .
+   16  git commit -m "a2"
+   17  git add main.txt
+   18  git commit -m "a2"
+   19  git branch
+   20  ls
+   21  git commit -m "a1"
+   22  git ckeckout qa
+   23  clear
+   24  cd
+   25  clear
+   26  cd dwonloads
+   27  cd downloads
+   28  ssh -i sdp.pem ubuntu@18.207.116.7
+   29  cd downloads
+   30  ssh -i sdp.pem ubuntu@18.207.116.7ewjh
+   31  ssh -i sdp.pem ubuntu@18.207.116.7
+   32  ssh -i sdp.pem ubuntu@18.207.116.7
+   33  cd downloads
+   34  ssh -i sdp.pem ubuntu@54.225.26.203
+   35  ls
+   36  clear
+   37  cd downloads
+   38  mkdir local-repo
+   39  ls
+   40  git branch -b main
+   41  git add -b main
+   42  git checkout -b main
+   43  cd
+   44  cd downloads
+   45  git checkout -b main
+   46  git checkout main
+   47  ls
+   48  touch main.txt
+   49  ls
+   50  cd local-repo
+   51  touch main.txt
+   52  ls
+   53  git checkout main
+   54  git commit -m "a1"
+   55  ls
+   56  git commit -m a1
+   57  git add commit a1
+   58  git log --oneline
+   59  git commit -m "a2"
+   60  git log --oneline
+   61  git add commit a2
+   62  git commit -m "a2"
+   63  git add file a2
+   64  git checkout -b qa
+   65  ls
+   66  git commit -m "b1"
+   67  git loh --oneline
+   68  git log --oneline
+   69  cd downloads
+   70  mkdir local-repo
+   71  cd
+   72  clear
+   73  cd downloads
+   74  cd downloads
+   75  cd main
+   76  git checkout main
+   77  cd
+   78  cd downloads
+   79  mkdir local-repo
+   80  cd local-repo
+   81  git init
+   82  ls -a
+   83  dir
+   84  Working with GitHub Remote Repo and Local Repo
+   85  cd downloads
+   86  cd local-repo
+   87  mkdir local-repo
+   88  cd local-repo
+   89  ls
+   90  git init local-repo
+   91  cd .
+   92  cd ..
+   93  git init local-repo
+   94  cd local-repo
+   95  ls
+   96  git remote add origin
+   97  >
+   98  git remote add origin <https://github.com/saidevarapu/sai-repo.git>
+   99  git remote add origin https://github.com/saidevarapu/sai-repo.git
+  100  git push -u origin main
+  101  git branch
+  102  git add .
+  103  git add . main.txt
+  104  git add . main
+  105  git commit -m a1
+  106  git commit -m a2
+  107  ls
+  108  git log --oneline
+  109  cd downloads
+  110  mkdir local-repo
+  111  mkdir local-repo
+  112  cd local-repo
+  113  git checkout mian
+  114  git checkout main
+  115  ls
+  116  touch main.txt
+  117  ls
+  118  git checkout -b main
+  119  git checkout main
+  120  git commit -m main
+  121  git add a1
+  122  gti add main.txt
+  123  git commit -m a1
+  124  git commit -m commi-a1
+  125  git add -m commi-a1
+  126  ls
+  127  echo commit-a1
+  128  ls
+  129  echo commit-a2
+  130  echo commit-a3
+  131  git log --oneline
+  132  git add commit-a2
+  133  git add commit a2
+  134  cd downloads
+  135  mkdir local-repo
+  136  cd local-repo
+  137  ls
+  138  git log --oneline
+  139  git checkout qa
+  140  git log --oneline
+  141  ls
+  142  git checkout main
+  143  ls
+  144  touch main.txt
+  145  ls
+  146  git log --oneline
+  147  sudo vi main.txt
+  148  vi main.txt
+  149  git add main.txt "commit-a2"
+  150  git add main.txt 'commit-a2'
+  151  git add main.txt 
+  152  git commit -m "commit-a2"
+  153  git log --oneline
+  154  ls
+  155  git checkout qa
+  156  git log --oneline
+  157  cleaaar
+  158  cd downloads
+  159  ssh -i sdp.pem ubuntu@54.160.147.170
+  160  de
+  161  cd ..
+  162  cd downloads
+  163  cd downloads
+  164  gti checkout main
+  165  git checkout main
+  166  ssh -i sdp.pem ubuntu@35.153.50.230
+  167  ssh -i sdp.pem ubuntu@54.146.71.198
+  168  ssh -i sdp.pem ubuntu@18.235.233.93
+  169  ssh -i sdp.pem ubuntu@18.235.233.93
+  170  ssh -i sdp.pem ubuntu@34.232.78.165
+  171  cd downloads
+  172  mkdir sai-repo
+  173  ls
+  174  cd sai-repo
+  175  ls
+  176  touch.txt
+  177  touch main.txt
+  178  ls
+  179  vi main.txt
+  180  git add -m 'commit-a1'
+  181  git commit -m 'commit-a1'
+  182  git log --oneline
+  183  vi main.txt
+  184  git add .
+  185  git commit -m 'commit-a3' main.txt
+  186  git log --oneline
+  187  vi main.txt
+  188  git commit -m 'commit-a2' main.txt
+  189  git log --oneline
+  190  rm -rf a1
+  191  git log --oneline
+  192  l
+  193  clear
+  194  cd downloads
+  195  mkdir local-repo
+  196  cd loacl-repo
+  197  cd local-repo
+  198  ls
+  199  touch main.txt
+  200  ls
+  201  vi main.txt
+  202  git commit -m 'commit-a1'
+  203  git commit -m 'commit-a1' main.txt
+  204  vi main.txt
+  205  git commit -m 'commit-a2' main.txt
+  206  vi main.txt
+  207  git commit -m 'commit-a3' main.txt
+  208  git log --oneline
+  209  git branch -b qa
+  210  git  add branch -b qa
+  211  git checkout -b qa
+  212  git checkout qa
+  213  ls
+  214  touch qa.txt
+  215  ls
+  216  vi qa.txt
+  217  git commit -m 'commit-b1'
+  218  git commit -m 'commit-b1' qa.txt
+  219  git log --oneline
+  220  vi qa.txt
+  221  git commit -m 'commit-b1' qa.txt
+  222  vi qa.txt
+  223  git commit -m 'commit-b2' qa.txt
+  224  vi qa.txt
+  225  git add .
+  226  g
+  227  vi qa.txt
+  228  git add .
+  229  git commit -m 'commit-b3' qa.txt
+  230  git log --oneline
+  231  vi qa.txt
+  232  git add .
+  233  git commit -m 'commit-b1' qa.txt
+  234  git log --oneline
+  235  vi qa.txt
+  236  git add .
+  237  git commit -m 'commit-b1' qa.txt
+  238  vi qa.txt
+  239  git add .
+  240  git add . qa.txt
+  241  git commit -m 'commit-b1' qa.txt
+  242  git log --oneline
+  243  vi qa.txt
+  244  git add .
+  245  git commit -m 'commit-b1' qa.txt
+  246  git log --oneline
+  247  git checkout dev
+  248  git checkout -b dev
+  249  git checkout dev
+  250  ls
+  251  touch dev.txt
+  252  ls
+  253  vi dev.txt
+  254  git commit -m 'commit-c1' dev.txt
+  255  vi dev.txt
+  256  git add .
+  257  git commit -m 'commit-c1' dev.txt
+  258  vi dev.txt
+  259  git add .
+  260  git commit -m 'commit-c2' dev.txt
+  261  vi dev.txt
+  262  git add .
+  263  git commit -m 'commit-c3' dev.txt
+  264  git log --oneline
+  265  git switch qa
+  266  ls
+  267  git log --oneline
+  268  git switch dev
+  269  git log --oneline
+  270  git switch main
+  271  git log --oneline
+  272  git push remote-repo
+  273  git remote -v
+  274  git push origin main
+  275  git push
+  276  git push -u origin main
+  277  git remote add origin https://github.com/saidevarapu/remote-repo.git
+  278  git push -u origin main
+  279  git remote add origin https://github.com/saidevarapu/remote.git
+  280  git push -u origin main
+  281  git checkout qa
+  282  git remote add origin https://github.com/saidevarapu/remote.git
+  283  git push -u origin qa
+  284  git checkout main
+  285  git push --all
+  286  cd downloads
+  287  mkdir local-repo
+  288  cd loacl-repo
+  289  cd local-repo
+  290  ls
+  291  touch main.txt
+  292  ls
+  293  vi main.txt
+  294  git add .
+  295  git commit -m 'commit-a1' main.txt
+  296  vi main.txt
+  297  git add .
+  298  git commit -m 'commit-a2' main.txt
+  299  vi main.txt
+  300  git add .
+  301  git commit -m 'commit-a3' main.txt
+  302  git log --oneline
+  303  git checkout qa
+  304  touch qa.txt
+  305  ls
+  306  vi qa.txt
+  307  git add .
+  308  git commit -m 'commit-b3' qa.txt
+  309  vi qa.txt
+  310  git add .
+  311  git commit -m 'commit-b2' qa.txt
+  312  vi qa.txt
+  313  git add .
+  314  git commit -m 'commit-b3' qa.txt
+  315  git log --oneline
+  316  git checkout dev
+  317  ls
+  318  git log --oneline
+  319  git checkout main
+  320  git remote add origin https://github.com/saidevarapu/remote.git
+  321  cd downloads
+  322  mkdir repo-local
+  323  cd repo-local
+  324  ls
+  325  git log --oneline
+  326  git log --oneline
+  327  cd downloads
+  328  ssh -i boom.pem ubuntu@3.96.133.58
+  329  cd ..
+  330  cd downloads
+  331  cd ..
+  332  git checkout -m main
+  333  git checkout -M main
+  334  ls
+  335  cd ..
+  336  cd ..
+  337  cd downloads
+  338  cd downloads
+  339  clear
+  340  cd downloads
+  341  cd sai-local-repo
+  342  git log --oneline
+  343  git checkout qa
+  344  git log --oneline
+  345  git checkout dev
+  346  git log --oneline
+  347  git checkout main
+  348  git remote add origin https://github.com/saidevarapu/remote-repo-sai.git
+  349  git remote add sai-local-repo https://github.com/saidevarapu/remote-repo-sai.git
+  350  ls
+  351  git log --oneline
+  352  git status
+  353  git push sai-local-repo
+  354  clear
+  355  cd .
+  356  cd...
+  357  cd ..
+  358  cd downloads
+  359  ssh -i sdp.pem ubuntu@34.235.169.38
+  360  ssh -i aws.pem ubuntu@34.235.169.38
+  361  ssh -i aws.pem ubuntu@34.235.169.38
+  362  clear
+  363  cd ..
+  364  ls
+  365  cd
+  366  clear
+  367  cd local-repo-sai
+  368  cd main
+  369  clear
+  370  cd sai-local-repo
+  371  git log --oneline
+  372  git checkout qa
+  373  git log --oneline
+  374  git checkout dev
+  375  git log --oneline
+  376  git checkout main
+  377  git add remote https://github.com/saidevarapu/remote-repo-sai.git
+  378  git remote add https://github.com/saidevarapu/remote-repo-sai.git
+  379  git remote add origin https://github.com/saidevarapu/remote-repo-sai.git
+  380  git push -u origin main
+  381  git checkout qa
+  382  git push -u origin qa
+  383  git remote add origin https://github.com/saidevarapu/remote-repo-sai.git
+  384  git remote -v
+  385  git remote set-url origin https://github.com/saidevarapu/repo-name.git
+  386  git push origin -u qa
+  387  git checkout main
+  388  git remote add origin https://github.com/saidevarapu/repo-name.git
+  389  git puah -u origin main
+  390  git push -u origin main
+  391  git remote add origin https://github.com/saidevarapu/remote-repo-sai.git
+  392  git push -u origin main
+  393  ls
+  394  git checkout qa
+  395  ls
+  396  git checkout dev
+  397  ls
+  398  git push -u origin dev
+  399  git log --oneline
+  400  git checkout main
+  401  git remote add origin https://github.com/saidevarapu/remote-repo.git
+  402  vi main.txt
+  403  git remote add origin https://github.com/saidevarapu/remote-repo.git
+  404  git remote set-url origin https://github.com/saidevarapu/remote-repo.git
+  405  git remote rename origin old-origin
+  406  git remote add origin https://github.com/saidevarapu/remote-repo.git
+  407  git remote -v
+  408  git remote remove origin
+  409  git remote add origin https://github.com/saidevarapu/remote-repo.git
+  410  git push -u origin main
+  411  git fetch origin
+  412  git merge origin/main --allow-unrelated-histories
+  413  git push -u origin main
+  414  git checkout qa
+  415  git push -u origin qa
+  416  git checkout dev
+  417  git push -u origin dev
+  418  git checkout main
+  419  git log --oneline
+  420  git checkout qa
+  421  git log --oneline
+  422  git checkout dev
+  423  git log --oneline
+  424  git checkout main
+  425  git pull
+  426  ls
+  427  vi main.txt
+  428  git add main.txt
+  429  git commit -m "bugfix-commit"
+  430  git push -u origin main
+  431  git log --oneline
+  432  git checkout qa
+  433  vi qa.txt
+  434  git add qa.txt
+  435  git commit -m "bugfix-commit"
+  436  git push -u origin qa
+  437  git log --oneline
+  438  git checkout dev
+  439  vi dev.txt
+  440  git add dev.txt
+  441  git push -u origin dev
+  442  git commit -m "bugfix-commit"
+  443  git push -u origin dev
+  444  git checkout main
+  445  git log --oneline
+  446  git checkout qa
+  447  git log --oneline
+  448  git checkout dev
+  449  git log --oneline
+  450  git checkout main
+  451  git checkout -b hot-fix
+  452  vi hot-fix.txt
+  453  git add hot-fix
+  454  git add hot-fix.txt
+  455  git commit -m "commit-a1"
+  456  vi hot-fix.txt
+  457  git add hot-fix.txt
+  458  git commit -m "commit-a2"
+  459  vi hot-fix.txt
+  460  git commit -m "commit-a3"
+  461  git add hot-fix.txt
+  462  git commit -m "commit-a3"
+  463  vi hot-fix.txt
+  464  git add hot-fix.txt
+  465  git commit -m "bugfix-commit"
+  466  vi hot-fix.txt
+  467  git add hot-fix.txt
+  468  git commit -m "commit-d1"
+  469  vi hot-fix.txt
+  470  git add hot-fix.txt
+  471  git commit -m "commit-d2"
+  472  vi hot-fix.txt
+  473  git add hot-fix.txt
+  474  git commit -m "commit-d3"
+  475  git log --oneline
+  476  git checkout main
+  477  git merge hot-fix
+  478  git push origin main
+  479  git log --oneline
+  480  ls
+  481  # Add new remote for prod-remote-repo
+  482  git remote add prod-origin https://github.com/saidevarapu/prod-remote-repo.git
+  483  # Push all branches except hotfix to prod-remote-repo
+  484  git push --all prod-origin
+  485  git merge origin/main --allow-unrelated-histories
+  486  git push --all prod-origin
+  487  git push -u origin main
+  488  git push --all prod-origin
+  489  git fetch prod-origin
+  490  git diff main prod-origin/main
+  491  git push prod-origin main
+  492  git merge prod-origin/main
+  493  git push prod-origin main
+  494  git merge origin/main --allow-unrelated-histories
+  495  git push prod-origin main
+  496  git log --oneline
+  497  git checkout qa
+  498  git log --oneline
+  499  git checkout dev
+  500  git log --oneline
+  501  history
